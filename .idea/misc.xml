@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Documents/Study Jam Android/Mars real Estate App/MarsRealEstate-Starter/app/src/main/res/drawable/ic_broken_image.xml" value="0.3828125" />
         <entry key="..\:/Documents/Study Jam Android/Mars real Estate App/MarsRealEstate-Starter/app/src/main/res/layout/fragment_overview.xml" value="0.2957427536231884" />
+        <entry key="..\:/Documents/Study Jam Android/Mars real Estate App/MarsRealEstate-Starter/app/src/main/res/layout/grid_view_item.xml" value="0.24818840579710144" />
       </map>
     </option>
   </component>
