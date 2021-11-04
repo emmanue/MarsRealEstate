@@ -69,3 +69,4 @@ fun bindStatus(statusImageView: ImageView,
     }
 }
 
+// following the best coding practices
