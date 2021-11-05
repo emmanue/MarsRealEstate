@@ -14,6 +14,8 @@
  *  limitations under the License.
  */
 
+// Following best practices
+
 package com.example.android.marsrealestate.detail
 
 import android.os.Bundle
