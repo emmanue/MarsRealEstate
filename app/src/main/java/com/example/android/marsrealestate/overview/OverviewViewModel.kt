@@ -34,6 +34,9 @@ enum class MarsApiStatus { LOADING, ERROR, DONE }
 /**
  * The [ViewModel] that is attached to the [OverviewFragment].
  */
+ 
+ // Following best practices
+ 
 class OverviewViewModel : ViewModel() {
 
     // The internal MutableLiveData that stores the status of the most recent request
